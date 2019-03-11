@@ -1,0 +1,5 @@
+[user]
+	email = cpellom@appliedsystems.com
+	name = Cody Pellom
+[core]
+	editor = \"C:\\Users\\cpellom\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --wait
